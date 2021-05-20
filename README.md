@@ -1,11 +1,11 @@
 # Hi there :wave:, I'm Vanessa!
 * _I'm currently  learning:_ <img align="center" alt="Phyton" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Phyton" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
+    <img height="400em" align="right" alt="octacat-vanessa" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621546842762.png">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessalb08&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><br>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessalb08&layout=compact&langs_count=16&theme=midnight-purple"/>
 
   <br>
-## Languages and tools
+<h2>Languages and tools</h2>
   <div style="display: inline_block"><br>
     <img align="center" alt="Phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
