@@ -15,4 +15,4 @@
 
   ## Connect with me:
   <a href="https://www.linkedin.com/in/vanessa-lima-80a523171/" target="_blank"><img align="center" alt="linkedin-vanessa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width=100%"></a>
-  <a href="https://www.instagram.com/vanessa.lima08/" target="_blank">  <img align="center" alt="instagram-vanessa" height="30" width="30" src="https://img-premium.flaticon.com/png/512/1384/1384063.png?token=exp=1621464944~hmac=efb2e0e326145f8df78df0980b7058a6" style="max-width=100%"></a>
+  
