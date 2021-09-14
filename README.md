@@ -1,5 +1,5 @@
 # Hi there :wave:, I'm Vanessa!
-* _I'm currently  learning:_<img align="center" alt="Phyton" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Java" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br><br>
+* _I'm currently  learning:_<img align="center" alt="Java" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br><br>
 
 <div>
     <img height="250em" align="right" alt="octacat-vanessa" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621546842762.png">
