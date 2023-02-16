@@ -1,5 +1,5 @@
 # Hi there :wave:, I'm Vanessa!
-* _I'm currently  learning:_<img align="center" alt="Phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+* _I'm currently  learning:_<img align="center" alt="Phyton" height="30" width="40" src="https://skillicons.dev/icons?i=swift">
 
 <div>
     <img height="250em" align="right" alt="octacat-vanessa" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621546842762.png">
@@ -11,11 +11,12 @@
 
 <h2> Languages and tools</h2>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Java" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br><br>
+    <img align="center" alt="Java" height="30" width="40" src="https://skillicons.dev/icons?i=git">
+    <img align="center" alt="Java" height="30" width="40" src="https://skillicons.dev/icons?i=python">
+    <img align="center" alt="Java" height="30" width="40" src="https://skillicons.dev/icons?i=java">
+    <img align="center" alt="Java" height="30" width="40" src="https://skillicons.dev/icons?i=html">
+    <img align="center" alt="Java" height="30" width="40" src="https://skillicons.dev/icons?i=css">
+    <img align="center" alt="Java" height="30" width="40" src="https://skillicons.dev/icons?i=javascript"><br><br>
  
 
   ## Connect with me:
