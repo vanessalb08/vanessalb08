@@ -11,6 +11,6 @@
 <div>
     <img height="450em" align="right" alt="octacat-vanessa" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621546842762.png"><br>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessalb08&layout=compact&langs_count=16&theme=midnight-purple" alt="vanessalb08" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessalb08&layout=donut&langs_count=16&theme=dracula" alt="vanessalb08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessalb08&show_icons=true&locale=en" alt="vanessalb08" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessalb08&show_icons=true&locale=en&theme=dracula" alt="vanessalb08" /></p>
